@@ -23,5 +23,5 @@
 
 ---
 
-Website: https://lofi-bot.glitch.me/ \n
+Website: https://lofi-bot.glitch.me/ <br>
 Discord: https://discord.gg/MyGH4YC
